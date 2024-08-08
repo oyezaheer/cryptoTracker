@@ -11,3 +11,7 @@ a {
   text-decoration: none;
   color: gold;
 }
+
+.suprsend-inbox-button {
+  color: white !important; /* Forces the button text/icon color to be white */
+}
